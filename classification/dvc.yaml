@@ -16,3 +16,15 @@ stages:
       - src/utils/tokenization.py
     outs:
       - ../shared/data/processed/pc-parts-processed.csv
+  train:
+    cmd: py -m src.models.train
+    deps:
+      - src/models/train.py
+      - src/models/evaluate.py
+      - ../shared/data/processed/pc-parts-processed.csv
+      - params/train.yaml
+      - params/evaluate.yaml
+    outs:
+      - models/logistic_regression_model.onnx
+      - models/metrics.json
+      # - reports

@@ -1,0 +1,6 @@
+max_iter: 1000
+random_state: 42
+penalty: l2
+verbose: 1
+test_size: 0.2
+sentence_transformer_model: all-MiniLM-L6-v2

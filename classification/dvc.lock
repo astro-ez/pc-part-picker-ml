@@ -45,3 +45,35 @@ stages:
       hash: md5
       md5: 495df86b19de04d942d78b53c1eceed0
       size: 2886540
+  train:
+    cmd: py -m src.models.train
+    deps:
+    - path: ../shared/data/processed/pc-parts-processed.csv
+      hash: md5
+      md5: 495df86b19de04d942d78b53c1eceed0
+      size: 2886540
+    - path: params/evaluate.yaml
+      hash: md5
+      md5: 092a07730d1e7def971f4b99cf917d0d
+      size: 14
+    - path: params/train.yaml
+      hash: md5
+      md5: cd3803254ea0bb971c5e46686557ddcc
+      size: 119
+    - path: src/models/evaluate.py
+      hash: md5
+      md5: f2245bc16021b2eb570bb197f7016726
+      size: 3674
+    - path: src/models/train.py
+      hash: md5
+      md5: 54207a778f31c01e4bb6f8413041cd46
+      size: 2103
+    outs:
+    - path: models/logistic_regression_model.onnx
+      hash: md5
+      md5: cdbc87a2ce71a7f8c2923881c31e5cf5
+      size: 18071
+    - path: models/metrics.json
+      hash: md5
+      md5: 19426a8a61fbe6669419d8b6512710d2
+      size: 350
