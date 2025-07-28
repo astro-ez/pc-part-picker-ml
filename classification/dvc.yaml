@@ -1,0 +1,8 @@
+stages:
+  preprocess:
+    cmd: python -m src.features.preprocess
+    deps:
+      - shared/data/raw/json
+      - src/features/preprocess.py
+    outs:
+      - shared/data/processed

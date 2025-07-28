@@ -1,0 +1,6 @@
+outs:
+- md5: e323eb2bedd48cc5ccaf9b65ff1cb986.dir
+  size: 14363684
+  nfiles: 25
+  hash: md5
+  path: pc-parts-json
