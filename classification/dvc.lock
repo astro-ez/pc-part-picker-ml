@@ -1,0 +1,27 @@
+schema: '2.0'
+stages:
+  ingest:
+    cmd: py -m src.data.ingest
+    deps:
+    - path: ../shared/data/raw/pc-parts-json
+      hash: md5
+      md5: e323eb2bedd48cc5ccaf9b65ff1cb986.dir
+      size: 14363684
+      nfiles: 25
+    - path: src/data/ingest.py
+      hash: md5
+      md5: 2a6c5100b326248a315de609be30d194
+      size: 3111
+    - path: src/data/parse_utils.py
+      hash: md5
+      md5: ac6f50892cdc721b36dc0a8a52d714cd
+      size: 1601
+    - path: src/data/parts_attrs_dict.py
+      hash: md5
+      md5: 0c4ba9db326ac60ef42989c24d7ed25c
+      size: 3397
+    outs:
+    - path: ../shared/data/interim/pc-parts-merged.csv
+      hash: md5
+      md5: 7148b8fc9ffe8a7841b5ef639781f9a5
+      size: 2879606

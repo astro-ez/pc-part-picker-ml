@@ -1,8 +1,17 @@
 stages:
-  preprocess:
-    cmd: python -m src.features.preprocess
+  ingest:
+    cmd: py -m src.data.ingest
     deps:
-      - shared/data/raw/json
-      - src/features/preprocess.py
+      - src/data/ingest.py
+      - ../shared/data/raw/pc-parts-json
+      - src/data/parts_attrs_dict.py
+      - src/data/parse_utils.py
     outs:
-      - shared/data/processed
+      - ../shared/data/interim/pc-parts-merged.csv
+  # preprocess:
+  #   cmd: python -m src.features.preprocess
+  #   deps:
+  #     - shared/data/interim/pc-parts-merged
+  #     - src/features/preprocess.py
+  #   outs:
+  #     - shared/data/processed
