@@ -25,3 +25,23 @@ stages:
       hash: md5
       md5: 7148b8fc9ffe8a7841b5ef639781f9a5
       size: 2879606
+  preprocess:
+    cmd: py -m src.features.preprocess
+    deps:
+    - path: ../shared/data/interim/pc-parts-merged.csv
+      hash: md5
+      md5: 7148b8fc9ffe8a7841b5ef639781f9a5
+      size: 2879606
+    - path: src/features/preprocess.py
+      hash: md5
+      md5: ff2db71bee8b5bf0c3b4f9011322557a
+      size: 1336
+    - path: src/utils/tokenization.py
+      hash: md5
+      md5: 007c4fd12080390caa719eb281f19db0
+      size: 448
+    outs:
+    - path: ../shared/data/processed/pc-parts-processed.csv
+      hash: md5
+      md5: 495df86b19de04d942d78b53c1eceed0
+      size: 2886540
