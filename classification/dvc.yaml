@@ -8,10 +8,11 @@ stages:
       - src/data/parse_utils.py
     outs:
       - ../shared/data/interim/pc-parts-merged.csv
-  # preprocess:
-  #   cmd: python -m src.features.preprocess
-  #   deps:
-  #     - shared/data/interim/pc-parts-merged
-  #     - src/features/preprocess.py
-  #   outs:
-  #     - shared/data/processed
+  preprocess:
+    cmd: py -m src.features.preprocess
+    deps:
+      - ../shared/data/interim/pc-parts-merged.csv
+      - src/features/preprocess.py
+      - src/utils/tokenization.py
+    outs:
+      - ../shared/data/processed/pc-parts-processed.csv
