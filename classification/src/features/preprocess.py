@@ -11,15 +11,20 @@ def preprocess_data():
     # lower case all the pc_part names
     df['part_name'] = df['part_name'].str.lower()
 
-    logging.info("Tokenizing the part names")
+    # remove the punctuations replace with space
+    logging.info("Removing the punctuations")
+    df['part_name'] = df['part_name'].str.replace('[^\w\s]', ' ', regex=True)
+
     # tokenize the part names
+    logging.info("Tokenizing the part names")
     tokenized_part_names = spacy_tokenize(df['part_name'].tolist())
+    # tokenized_part_names = df['part_name'].str.split(" ")
 
     df['part_name_tokenized'] = tokenized_part_names
 
     logging.info("Removing duplicate tokens")
     # remove the duplicate tokens
-    df['part_name_tokenized'] = df['part_name_tokenized'].apply(lambda x: list(set(x)))
+    df['part_name_tokenized'] = df['part_name_tokenized'].apply(lambda x: list(dict.fromkeys(x)))
 
     logging.info("Joining the tokens back to a string")
     # join the tokens back to a string

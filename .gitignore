@@ -1,1 +1,4 @@
 **/__pycache__
+
+**/notebooks/*
+!**/notebooks/*.ipynb

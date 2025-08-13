@@ -25,6 +25,6 @@ stages:
       - params/train.yaml
       - params/evaluate.yaml
     outs:
-      - models/logistic_regression_model.onnx
+      - models/full_pipeline_model.pkl
       - models/metrics.json
       # - reports

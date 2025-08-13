@@ -18,24 +18,24 @@ stages:
       size: 1601
     - path: src/data/parts_attrs_dict.py
       hash: md5
-      md5: 0c4ba9db326ac60ef42989c24d7ed25c
-      size: 3397
+      md5: a41f8aa801b534731afedd9cd4bc03d4
+      size: 3515
     outs:
     - path: ../shared/data/interim/pc-parts-merged.csv
       hash: md5
-      md5: 7148b8fc9ffe8a7841b5ef639781f9a5
-      size: 2879606
+      md5: 376028087aabafedde689935a561a64e
+      size: 1584187
   preprocess:
     cmd: py -m src.features.preprocess
     deps:
     - path: ../shared/data/interim/pc-parts-merged.csv
       hash: md5
-      md5: 7148b8fc9ffe8a7841b5ef639781f9a5
-      size: 2879606
+      md5: 376028087aabafedde689935a561a64e
+      size: 1584187
     - path: src/features/preprocess.py
       hash: md5
-      md5: ff2db71bee8b5bf0c3b4f9011322557a
-      size: 1336
+      md5: eebc1dae7b2ddfd563973a3b359e20bc
+      size: 1585
     - path: src/utils/tokenization.py
       hash: md5
       md5: 007c4fd12080390caa719eb281f19db0
@@ -43,15 +43,15 @@ stages:
     outs:
     - path: ../shared/data/processed/pc-parts-processed.csv
       hash: md5
-      md5: 495df86b19de04d942d78b53c1eceed0
-      size: 2886540
+      md5: 2abad0e442f4e8dd11405f312f2a3965
+      size: 1581858
   train:
     cmd: py -m src.models.train
     deps:
     - path: ../shared/data/processed/pc-parts-processed.csv
       hash: md5
-      md5: 495df86b19de04d942d78b53c1eceed0
-      size: 2886540
+      md5: 2abad0e442f4e8dd11405f312f2a3965
+      size: 1581858
     - path: params/evaluate.yaml
       hash: md5
       md5: 092a07730d1e7def971f4b99cf917d0d
@@ -66,14 +66,14 @@ stages:
       size: 3674
     - path: src/models/train.py
       hash: md5
-      md5: 54207a778f31c01e4bb6f8413041cd46
-      size: 2103
+      md5: d997eddb94df71dab595c8d289d9c425
+      size: 2021
     outs:
-    - path: models/logistic_regression_model.onnx
+    - path: models/full_pipeline_model.pkl
       hash: md5
-      md5: cdbc87a2ce71a7f8c2923881c31e5cf5
-      size: 18071
+      md5: f91dfb5e332f605c51b897f22bd0bb79
+      size: 91424016
     - path: models/metrics.json
       hash: md5
-      md5: 19426a8a61fbe6669419d8b6512710d2
-      size: 350
+      md5: 94e0e9282c478fa36ec3d6d4aaf76ff6
+      size: 348

@@ -5,9 +5,10 @@ from sklearn.linear_model import LogisticRegression
 import numpy as np
 import pandas as pd
 import yaml
-from skl2onnx import convert_sklearn
-from skl2onnx.common.data_types import FloatTensorType
+# from skl2onnx import convert_sklearn
+# from skl2onnx.common.data_types import FloatTensorType, StringTensorType
 from src.models.evaluate import evaluate_model
+import joblib
 
 def train():
 
@@ -38,15 +39,14 @@ def train():
     logging.info("Evaluating the model")
     evaluate_model(clf_logistic, X_test, y_test)
 
-    n_features = X_train.shape[1]
-    
-    initial_type =[("input", FloatTensorType([None, n_features]))]    
-    
-    onnx_model = convert_sklearn(clf_logistic, initial_types=initial_type)
+    pipeline = {
+        "embedder": sentence_model,
+        "classifier": clf_logistic
+    }
 
     logging.info("Saving the trained model")
-    with open('models/logistic_regression_model.onnx', 'wb') as f:
-        f.write(onnx_model.SerializeToString())
+    with open('models/full_pipeline_model.pkl', 'wb') as f:
+        joblib.dump(pipeline, f)
     
     logging.info("Model saved successfully.")
 
