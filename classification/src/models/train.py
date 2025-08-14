@@ -29,7 +29,7 @@ def train():
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=params['test_size'], random_state=params['random_state'])
 
     logging.info("Initializing the logistic regression model")
-    clf_logistic = LogisticRegression(max_iter=params['max_iter'], random_state=params['random_state'], penalty=params['penalty'], verbose=params['verbose'])
+    clf_logistic = LogisticRegression(max_iter=params['max_iter'], random_state=params['random_state'], penalty=params['penalty'], class_weight=params['class_weight'], verbose=params['verbose'])
 
     logging.info("Fitting the logistic regression model")
     clf_logistic.fit(X_train, y_train)

@@ -18,24 +18,24 @@ stages:
       size: 1601
     - path: src/data/parts_attrs_dict.py
       hash: md5
-      md5: a41f8aa801b534731afedd9cd4bc03d4
-      size: 3515
+      md5: a695a879b7f7f2db895ef9c49bc3df0b
+      size: 3511
     outs:
     - path: ../shared/data/interim/pc-parts-merged.csv
       hash: md5
-      md5: 376028087aabafedde689935a561a64e
-      size: 1584187
+      md5: db889362a695efd0fdb3f99889695fc1
+      size: 1750288
   preprocess:
     cmd: py -m src.features.preprocess
     deps:
     - path: ../shared/data/interim/pc-parts-merged.csv
       hash: md5
-      md5: 376028087aabafedde689935a561a64e
-      size: 1584187
+      md5: db889362a695efd0fdb3f99889695fc1
+      size: 1750288
     - path: src/features/preprocess.py
       hash: md5
-      md5: eebc1dae7b2ddfd563973a3b359e20bc
-      size: 1585
+      md5: cac0c7370e4a773ca21b3b0ec6693057
+      size: 1589
     - path: src/utils/tokenization.py
       hash: md5
       md5: 007c4fd12080390caa719eb281f19db0
@@ -43,37 +43,37 @@ stages:
     outs:
     - path: ../shared/data/processed/pc-parts-processed.csv
       hash: md5
-      md5: 2abad0e442f4e8dd11405f312f2a3965
-      size: 1581858
+      md5: 471700248deb13743ef6756a123818ff
+      size: 1731742
   train:
     cmd: py -m src.models.train
     deps:
     - path: ../shared/data/processed/pc-parts-processed.csv
       hash: md5
-      md5: 2abad0e442f4e8dd11405f312f2a3965
-      size: 1581858
+      md5: 471700248deb13743ef6756a123818ff
+      size: 1731742
     - path: params/evaluate.yaml
       hash: md5
-      md5: 092a07730d1e7def971f4b99cf917d0d
-      size: 14
+      md5: a15219b03aebe837b44980db3e55b662
+      size: 9
     - path: params/train.yaml
       hash: md5
-      md5: cd3803254ea0bb971c5e46686557ddcc
-      size: 119
+      md5: 56758c68fe592f4c13061ae91521176e
+      size: 212
     - path: src/models/evaluate.py
       hash: md5
-      md5: f2245bc16021b2eb570bb197f7016726
-      size: 3674
+      md5: 87800be6dbdd2b26619159ae62eb0905
+      size: 4301
     - path: src/models/train.py
       hash: md5
-      md5: d997eddb94df71dab595c8d289d9c425
-      size: 2021
+      md5: 397cf277956864f23b41b677c2016b3f
+      size: 2058
     outs:
     - path: models/full_pipeline_model.pkl
       hash: md5
-      md5: f91dfb5e332f605c51b897f22bd0bb79
-      size: 91424016
+      md5: 6c8a5f6b7a2985871610725ea1a6f4e7
+      size: 479839712
     - path: models/metrics.json
       hash: md5
-      md5: 94e0e9282c478fa36ec3d6d4aaf76ff6
-      size: 348
+      md5: 60e276d9382fefef7c284b15ffa3ad10
+      size: 1563

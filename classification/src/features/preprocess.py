@@ -12,8 +12,8 @@ def preprocess_data():
     df['part_name'] = df['part_name'].str.lower()
 
     # remove the punctuations replace with space
-    logging.info("Removing the punctuations")
-    df['part_name'] = df['part_name'].str.replace('[^\w\s]', ' ', regex=True)
+    # logging.info("Removing the punctuations")
+    # df['part_name'] = df['part_name'].str.replace('[^\w\s]', ' ', regex=True)
 
     # tokenize the part names
     logging.info("Tokenizing the part names")

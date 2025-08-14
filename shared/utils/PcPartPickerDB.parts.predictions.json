@@ -1,0 +1,3416 @@
+[
+    {
+        "id": 4050,
+        "title": "BOITIER GAMEMAX INFINITY WH",
+        "category": "\nBoitiers",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4051,
+        "title": "BOITIER GAMEMAX INFINITY BK",
+        "category": "\nBoitiers",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4052,
+        "title": "BOITIER GAMEMAX VISTA MW",
+        "category": "\nBoitiers",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4053,
+        "title": "BOITIER GAMEMAX VISTA MB",
+        "category": "\nBoitiers",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4054,
+        "title": "BOITIER CORSAIR 3000D RGB AIRFLOW BLACK",
+        "category": "\nBoitiers",
+        "predictedCategory": "CASE"
+    },
+    {
+        "id": 4055,
+        "title": "BOITIER MSI MAG PANO M100R PZ BLACK",
+        "category": "\nBoitiers",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4056,
+        "title": "BOITIER XIGMATEK ENDORPHIN ULTRA ARCTIC RGB",
+        "category": "\nBoitiers",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4057,
+        "title": "BOITIER ANTEC CX300 ARGB WHITE",
+        "category": "\nBoitiers",
+        "predictedCategory": "CASE"
+    },
+    {
+        "id": 4058,
+        "title": "BOITIER ANTEC AX20 ELITE 4 FAN RGB",
+        "category": "\nBoitiers",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4059,
+        "title": "BOITIER ANTEC C3 ELITE BLACK 4FAN ARGB",
+        "category": "\nBoitiers",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4060,
+        "title": "BOITIER XIGMATEK GAMING G PRO BLACK ARGB",
+        "category": "\nBoitiers",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4061,
+        "title": "BOITIER XIGMATEK CUBI ARCTIC ARGB",
+        "category": "\nBoitiers",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4062,
+        "title": "GIGABYTE C301 GLASS BLACK V2 ARGB",
+        "category": "\nBoitiers",
+        "predictedCategory": "CASE"
+    },
+    {
+        "id": 4063,
+        "title": "GIGABYTE C301 GLASS WHITE V2 ARGB",
+        "category": "\nBoitiers",
+        "predictedCategory": "CASE"
+    },
+    {
+        "id": 4064,
+        "title": "BOITIER MSI FORGE 320R AIRFLOW ARGB WHITE",
+        "category": "\nBoitiers",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4065,
+        "title": "BOITIER MSI MAG FORGE 112R ARGB",
+        "category": "\nBoitiers",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4066,
+        "title": "BOITIER MSI MAG PANO 100R PZ BLACK ARGB",
+        "category": "\nBoitiers",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4067,
+        "title": "BOITIER DEEPCOOL CH690 DIGITAL BLACK",
+        "category": "\nBoitiers",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4068,
+        "title": "BOITIER MARS GAMING MC-F WHITE ARGB",
+        "category": "\nBoitiers",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4069,
+        "title": "BOITIER MARS GAMING MC-C BLACK FRGB",
+        "category": "\nBoitiers",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4070,
+        "title": "BOITIER MARS GAMING MC-WOOD CHROME",
+        "category": "\nBoitiers",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4071,
+        "title": "BOITIER DEEPCOOL CH560 DIGITAL WHITE ARGB",
+        "category": "\nBoitiers",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4072,
+        "title": "BOITIER DEEPCOOL CH560 DIGITAL BLACK ARGB",
+        "category": "\nBoitiers",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4073,
+        "title": "BOITIER DEEPCOOL CC560 ARGB V2 BLACK",
+        "category": "\nBoitiers",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4074,
+        "title": "BOITIER DEEPCOOL CC560 V2 WHITE",
+        "category": "\nBoitiers",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4075,
+        "title": "BOITIER DEEPCOOL CC560 V2 BLACK",
+        "category": "\nBoitiers",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4076,
+        "title": "BOITIER XIGMATEK GAMING X BLACK",
+        "category": "\nBoitiers",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4077,
+        "title": "BOITIER CORSAIR 4000D AIRFLOW (BLACK / WHITE)",
+        "category": "\nBoitiers",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4078,
+        "title": "BOITIER MSI MAG PROSPECT 700R LCD",
+        "category": "\nBoitiers",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4079,
+        "title": "BOITIER ASUS PROART PA602 BLACK",
+        "category": "\nBoitiers",
+        "predictedCategory": "CASE"
+    },
+    {
+        "id": 4080,
+        "title": "BOITIER CORSAIR 3000D AIRFLOW WHITE",
+        "category": "\nBoitiers",
+        "predictedCategory": "CASE"
+    },
+    {
+        "id": 4081,
+        "title": "BOITIER GAMDIAS TALOS E3 MESH ARGB",
+        "category": "\nBoitiers",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4082,
+        "title": "BOITIER GAMDIAS TALOS E2 ELITE ARGB",
+        "category": "\nBoitiers",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4083,
+        "title": "BOITIER MSI MPG VELOX 100R WHITE",
+        "category": "\nBoitiers",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4084,
+        "title": "BOITIER MSI MPG GUNGNIR 110R WHITE",
+        "category": "\nBoitiers",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4085,
+        "title": "BOITIER MSI MAG PANO M100R PZ WHITE",
+        "category": "\nBoitiers",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4086,
+        "title": "BOITIER COOLER MASTER MASTERBOX MB520 ARGB",
+        "category": "\nBoitiers",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4087,
+        "title": "BOITIER PHANTEKS ECLIPSE P400A RGB BLACK",
+        "category": "\nBoitiers",
+        "predictedCategory": "CASE"
+    },
+    {
+        "id": 4088,
+        "title": "BOITIER LIAN LI O11D XL ROG CERTIFIED WHITE ARGB",
+        "category": "\nBoitiers",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4089,
+        "title": "BOITIER NZXT H7 FLOW BLACK RGB",
+        "category": "\nBoitiers",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4090,
+        "title": "CORSAIR ICUE 5000X TEMPERED GLASS WHITE",
+        "category": "\nBoitiers",
+        "predictedCategory": "CASE"
+    },
+    {
+        "id": 4091,
+        "title": "BOITIER ANTEC AX83 ELITE RGB",
+        "category": "\nBoitiers",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4092,
+        "title": "BOITIER SPIRIT OF GAMER ROGUE 6 RGB",
+        "category": "\nBoitiers",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4093,
+        "title": "BOITIER MARS GAMING MC-XP BLACK",
+        "category": "\nBoitiers",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4094,
+        "title": "BOITIER MARS GAMING MC MASTER",
+        "category": "\nBoitiers",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4095,
+        "title": "BOITIER CORSAIR 3000D RGB AIRFLOW WHITE",
+        "category": "\nBoitiers",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4096,
+        "title": "BOITIER AURES HYDRA ARGB",
+        "category": "\nBoitiers",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4097,
+        "title": "BOITIER MSI MAG FORGE M100R ARGB",
+        "category": "\nBoitiers",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4098,
+        "title": "ASUS RTX 5060 TI DUAL OC 8GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4099,
+        "title": "MSI RTX 5090 VANGUARD SOG 32GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4100,
+        "title": "ZOTAC RTX 3060 TWIN EDGE 12GO GDDR6",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4101,
+        "title": "ASUS RTX 4060 TI DUAL OC 16GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4102,
+        "title": "ASUS TUF GAMING RTX 5070 OC 12GB GDDR7",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4103,
+        "title": "ASUS RTX 4060 TI DUAL OC 8GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4104,
+        "title": "GIGABYTE RTX 5070 TI WINDFORCE OC SFF 16G",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4105,
+        "title": "GIGABYTE RTX 5070 WINDFORCE OC SFF 12GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4106,
+        "title": "MSI RTX 5070 INSPIRE 3X OC 12GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4107,
+        "title": "MSI RTX 4060 TI VENTUS 2X OC 8GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4108,
+        "title": "ASUS RTX 3060 DUAL OC 12GO V2",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4109,
+        "title": "CARTE GRAPHIQUE ASUS RADEON RX 7600 DUAL OC 8GO EVO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4110,
+        "title": "MSI RTX 3050 VENTUS 2X XS WHITE OC 8GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4111,
+        "title": "GIGABYTE RTX 5070 WINDFORCE SFF 12GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4112,
+        "title": "GIGABYTE RTX 4060 WINDFORCE OC 8GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4113,
+        "title": "GIGABYTE RTX 5060 TI WINDFORCE OC 16GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4114,
+        "title": "GIGABYTE RTX 5060 Ti EAGLE OC 16GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4115,
+        "title": "ASUS RTX 3050 DUAL OC 6GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4116,
+        "title": "SAPPHIRE PULSE AMD RADEON RX 9060 XT 16GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4117,
+        "title": "GIGABYTE RTX 5060 Ti EAGLE OC 8GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4118,
+        "title": "GIGABYTE RTX 5080 AERO OC SFF 16GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4119,
+        "title": "GIGABYTE RTX 4080 SUPER GAMING OC 16GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4120,
+        "title": "GIGABYTE RTX 5060 TI WINDFORCE OC 8GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4121,
+        "title": "CARTE GRAPHIQUE XFX SPEEDSTER SWFT 319 RX 6800 XT 16GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4122,
+        "title": "GIGABYTE RTX 5070 TI GAMING OC 16GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4123,
+        "title": "GIGABYTE RTX 5090 WINDFORCE OC 32GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4124,
+        "title": "INNO3D RTX 3060 TWIN X2 12GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4125,
+        "title": "ASUS RTX 4060 DUAL OC 8GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4126,
+        "title": "GIGABYTE RTX 5070 TI EAGLE OC SFF 16G",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4127,
+        "title": "INNO3D RTX 3060 TWIN X2 OC 12GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4128,
+        "title": "CARTE GRAPHIQUE XFX SPEEDSTER MERC 319 RADEON RX 6900 XT 16GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4129,
+        "title": "ASROCK RADEON RX 6600 CHALLENGER 8GO WHITE",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4130,
+        "title": "ASROCK RADEON RX 6600 CHALLENGER 8GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4131,
+        "title": "GIGABYTE RTX 4060 TI EAGLE OC 8GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4132,
+        "title": "BIOSTAR GAMING RADEON RX 6600 8GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4133,
+        "title": "ASUS TUF GAMING RTX 4070 OC 12GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4134,
+        "title": "BIOSTAR RTX 3050 6GO EXTREME GAMING",
+        "category": "\nCarte graphique",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4135,
+        "title": "ASUS RTX 4060 TI DUAL OC 8GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4136,
+        "title": "ZOTAC RTX 4070 SUPER TWIN EDGE 12GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4137,
+        "title": "XFX SWFT 210 RADEON RX 6650 XT SPEEDSTER 8GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4138,
+        "title": "ASUS RTX 4060 DUAL OC 8GO GDDR6",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4139,
+        "title": "ASUS TUF GAMING RTX 4070 TI SUPER OC 16GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4140,
+        "title": "XFX SWFT 319 RADEON RX 6900 XT SPEEDSTER 16GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4141,
+        "title": "XFX QICK 319 RADEON RX 6750 XT SPEEDSTER 12GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4142,
+        "title": "XFX QICK 319 RADEON RX 6700 XT SPEEDSTER 12GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4143,
+        "title": "ASUS RTX 4070 SUPER DUAL OC 12GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4144,
+        "title": "GIGABYTE RTX 4070 SUPER AERO OC 12GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4145,
+        "title": "GIGABYTE RTX 3050 EAGLE OC 6GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4146,
+        "title": "GIGABYTE RTX 4060 GAMING OC 8GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4147,
+        "title": "GIGABYTE RTX 4060 EAGLE OC ICE 8GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4148,
+        "title": "ASUS ROG STRIX RTX 4090 GAMING 24GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4149,
+        "title": "GIGABYTE RTX 3050 WINDFORCE OC 6GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4150,
+        "title": "GIGABYTE RTX 4070 SUPER EAGLE OC ICE 12GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4151,
+        "title": "GIGABYTE AORUS RTX 4070 TI SUPER MASTER OC 16GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4152,
+        "title": "ASUS TUF GAMING GTX 1650 4GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4153,
+        "title": "ASUS RADEON RX 6750 XT DUAL OC 12GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4154,
+        "title": "ASUS TUF GAMING RADEON RX 7700 XT OC 12GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4155,
+        "title": "GIGABYTE RTX 4060 TI EAGLE OC ICE 8GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4156,
+        "title": "ASUS RTX 3050 DUAL OC 6GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4157,
+        "title": "GIGABYTE RTX 4070 TI SUPER EAGLE OC ICE 16GO",
+        "category": "\nCarte graphique",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4158,
+        "title": "ASUS TUF GAMING RADEON RX 7900 XTX OC 24GB",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4159,
+        "title": "GIGABYTE RTX 3060 WINDFORCE OC 12GB",
+        "category": "\nCarte graphique",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4160,
+        "title": "AMD RYZEN 5 9600X (3.9 GHz / 5.4 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4161,
+        "title": "AMD RYZEN 9 9900X (4.4 GHz / 5.6 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4162,
+        "title": "INTEL I5 14600KF (3.5 GHz / 5.3 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4163,
+        "title": "AMD RYZEN 7 7700 (3,8GHz / 5,3GHz) TRAY",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4164,
+        "title": "AMD RYZEN 5 3600 (3.6 GHz / 4.2 GHz) BOX",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4165,
+        "title": "AMD RYZEN 7 9700X (3.8 GHz / 5.5 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4166,
+        "title": "AMD RYZEN 5 PRO 5650G (3.9 GHz / 4.4 GHz) MPK",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4167,
+        "title": "INTEL I5 12400F (2.5 GHz / 4.4 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4168,
+        "title": "INTEL I5 14400F (Jusqu’à 4.7 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4169,
+        "title": "AMD RYZEN 7 9800X3D (4.7 GHz / 5.2 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4170,
+        "title": "KIT UPGRADE INTEL I5 14400F + MSI PRO H610M E DDR4",
+        "category": "\nProcesseurs, Carte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4171,
+        "title": "INTEL I3 13100F (3.4 GHz / 4.5 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4172,
+        "title": "INTEL I3 14100F ( 3.5 GHz / 4.7 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4173,
+        "title": "AMD RYZEN 7 5700X (3.4 GHz / 4.6 GHz) TRAY",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4174,
+        "title": "INTEL I7 14700KF (3.4 GHz / 5.6 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4175,
+        "title": "AMD RYZEN 5 7600X (4.7 GHz / 5.3 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4176,
+        "title": "AMD RYZEN 5 8400F (4.2 GHz / 4.7 GHz) BOX",
+        "category": "\nCOMPOSANTS PC, Processeurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4177,
+        "title": "AMD RYZEN 7 8700G (4.2 GHz / 5.1 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4178,
+        "title": "INTEL I3 12100F (3.3 GHz / 4.3 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4179,
+        "title": "AMD RYZEN 5 8600G (4.3 GHz / 5.0 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4180,
+        "title": "KIT UPGRADE RYZEN 5 8400F + CARTE MERE MSI PRO A620M E",
+        "category": "\nProcesseurs",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4181,
+        "title": "AMD RYZEN 7 8700F (4.1 GHz / 5.0 GHz) BOX",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4182,
+        "title": "INTEL I7 13700KF (3.4 GHz / 5.4 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4183,
+        "title": "INTEL I9 14900KF (3.2 GHz / 5.8 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4184,
+        "title": "AMD RYZEN 7 7800X3D (4.2 GHz / 5.0 GHz) Occasion",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4185,
+        "title": "AMD RYZEN 9 9900X3D (4.4 GHz / 5.5 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4186,
+        "title": "AMD RYZEN 5 9600 (3.8 GHz / 5.2 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4187,
+        "title": "KIT UPGRADE INTEL I5 12400F + CARTE MERE BIOSTAR H610MHP DDR4",
+        "category": "\nProcesseurs",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4188,
+        "title": "INTEL I3 14100 (jusqu’à 4.7 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4189,
+        "title": "INTEL I5 14400 (Jusqu’à 4.7 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4190,
+        "title": "AMD RYZEN 5 5600GT (3.6 GHz / 4.6 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4191,
+        "title": "AMD RYZEN 5 7600 (3.8 GHz / 5.1 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4192,
+        "title": "AMD RYZEN 5 5600 (3.5 GHz / 4.4 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4193,
+        "title": "AMD RYZEN 7 5700X3D (3.0 GHz / 4.1 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4194,
+        "title": "KIT UPGRADE INTEL ULTRA 7 265K + GIGABYTE Z890M GAMING X",
+        "category": "\nProcesseurs, Carte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4195,
+        "title": "INTEL CORE ULTRA 7 265K (3.9 GHz / 5.5 GHz) TRAY",
+        "category": "\nProcesseurs",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4196,
+        "title": "INTEL CORE ULTRA 5 245K (4.2 GHz / 5.2 GHz) TRAY",
+        "category": "\nProcesseurs",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4197,
+        "title": "AMD RYZEN 5 5500 (3.6 GHz / 4.2 GHz) TRAY",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4198,
+        "title": "AMD RYZEN 9 9950X (4.3 GHz / 5.7 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4199,
+        "title": "INTEL I5 14600K (3.5 GHz / 5.3 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4200,
+        "title": "KIT UPGRADE INTEL ULTRA 5 245K + GIGABYTE Z890M GAMING X",
+        "category": "\nProcesseurs, Carte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4201,
+        "title": "AMD RYZEN 5 5600X (3.7 GHz / 4.6 GHz) MPK + VENTILO",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4202,
+        "title": "KIT UPGRADE RYZEN 5 5500 TRAY + CARTE MERE BIOSTAR B550MT",
+        "category": "\nProcesseurs",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4203,
+        "title": "AMD RYZEN 7 7700 (3,8GHz / 5,3GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4204,
+        "title": "AMD RYZEN 5 5600X (3.7 GHz / 4.6 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4205,
+        "title": "AMD RYZEN 5 5600G (3.9 GHz / 4.4 GHz) BOX",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4206,
+        "title": "INTEL I5 12400 (2.5 GHz / 4.4 GHz) TRAY + VENTILO",
+        "category": "\nProcesseurs",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4207,
+        "title": "AMD RYZEN 5 5600G MPK (AVEC VENTILO)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4208,
+        "title": "AMD RYZEN 5 8500G (3.5 GHz / 5.0 GHz) MPK + VENTILO",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4209,
+        "title": "AMD RYZEN 5 7500F (3.7 GHz / 5.0 GHz) MPK + VENTILO",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CASE_FAN"
+    },
+    {
+        "id": 4210,
+        "title": "KIT UPGRADE RYZEN 5 PRO 5650G + MSI B450M A PRO MAX",
+        "category": "\nProcesseurs, Carte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4211,
+        "title": "KIT UPGRADE RYZEN 5 PRO 5650G + ASUS PRIME B450M K II",
+        "category": "\nProcesseurs, Carte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4212,
+        "title": "AMD RYZEN 7 5700G MPK (AVEC VENTILO)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4213,
+        "title": "AMD RYZEN 9 7950X3D (4.2 GHz / 5.7 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4214,
+        "title": "AMD RYZEN 7 7800X3D (4.2 GHz / 5.0 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4215,
+        "title": "INTEL I5 12500 (3.0 GHz / 4.6 GHz) MPK",
+        "category": "\nProcesseurs",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4216,
+        "title": "INTEL I5 13600KF (3.5 GHz / 5.1 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4217,
+        "title": "INTEL I5 12400 (2.5 GHz / 4.4 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4218,
+        "title": "KIT UPGRADE RYZEN 5 5600G ASROCK B450M PRO4 R2.0",
+        "category": "\nProcesseurs, Carte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4219,
+        "title": "INTEL I5 13400F (2.5 GHz / 4.6 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4220,
+        "title": "INTEL I5 13600K (3.5 GHz / 5.1 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4221,
+        "title": "AMD RYZEN 7 5800X3D (3.4 GHz / 4.5 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4222,
+        "title": "AMD RYZEN 5 7600 (4.0 GHz / 5.2 GHz) TRAY",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4223,
+        "title": "AMD RYZEN 7 5700G (3.8 GHz / 4.6 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4224,
+        "title": "INTEL I5 12600KF (3.7 GHz / 4.9 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4225,
+        "title": "INTEL I9 14900KS (3.2 GHz / 6.2 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4226,
+        "title": "INTEL I7 12700F (2.1 GHz / 4.9 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4227,
+        "title": "AMD RYZEN 9 7950X (4.5 GHz / 5.7 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4228,
+        "title": "AMD RYZEN 9 7900X3D (4.4 GHz / 5.6 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4229,
+        "title": "INTEL I7 14700KF (3.4 GHz / 5.6 GHz) TRAY",
+        "category": "\nProcesseurs",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4230,
+        "title": "AMD RYZEN 5 8500G (3.5GHz / 5.0GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4231,
+        "title": "INTEL I3 13100 (3.4 GHz / 4.5 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4232,
+        "title": "INTEL I9 13900K (3.0 GHz / 5.8 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4233,
+        "title": "INTEL I9 14900K (3.2 GHz / 5.8 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4234,
+        "title": "INTEL I7 14700K (3.4 GHz / 5.6 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4235,
+        "title": "INTEL I3 12100 (3.3 GHz / 4.3 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4236,
+        "title": "AMD RYZEN 9 7900 (4.0 GHz / 5.4 GHz)",
+        "category": "\nProcesseurs",
+        "predictedCategory": "CPU"
+    },
+    {
+        "id": 4237,
+        "title": "RAM MAGMA 16GO 2X8GO 3200MHZ DDR4 RGB BLACK",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4238,
+        "title": "RAM MAGMA 16GO 2X8GO 3600MHZ DDR4 RGB WHITE",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4239,
+        "title": "RAM MAGMA 16GO 2X8GO 3200MHZ DDR4 RGB WHITE",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4240,
+        "title": "RAM ACER PREDATOR 32GO 2X16GO 6000MHZ VESTA II DDR5 RGB CL36",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4241,
+        "title": "RAM XPG 64GO 2X32GO 6400MHZ LANCER RGB CL32 WHITE",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4242,
+        "title": "RAM XPG 16GO 3200MHZ GAMMIX D35 DDR4",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4243,
+        "title": "RAM XPG 16GO 2X8GO 5600MHZ LANCER BLADE RGB DDR5",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4244,
+        "title": "RAM SILICON POWER 64GO 2X32GO 6000MHZ XPOWER STORM RGB",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4245,
+        "title": "RAM CORSAIR 32GO 2X16GO 6400MHZ VENGEANCE RGB DDR5 CL36",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4246,
+        "title": "RAM CORSAIR 32GO 2X16GO 6000MHZ VENGEANCE RGB DDR5 MEMORY FOR AMD",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4247,
+        "title": "RAM MAGMA 16GO 2X8GO 3600MHZ DDR4 RGB BLACK",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4248,
+        "title": "RAM MAGMA 8GO 3200MHZ DDR4",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4249,
+        "title": "RAM XPG 16GO 2X8GO 5600MHZ LANCER BLADE DDR5",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4250,
+        "title": "RAM XPG 32GO 2X16GO 6800MHZ LANCER RGB CL34 DDR5",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4251,
+        "title": "RAM MAGMA 16GO 2X8GO 4800MHZ DDR5",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4252,
+        "title": "RAM GSKILL 32GO 2X16GO 6000MHZ TRIDENT Z5 RGB DDR5 CL40",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4253,
+        "title": "RAM GSKILL 8GO 3600MHZ RIPJAWS V DDR4",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4254,
+        "title": "RAM XPG 32GO 2X16GO 6400MHZ LANCER BLADE CL32 DDR5 WHITE",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4255,
+        "title": "RAM XPG 64GO 2X32GO 6400MHZ LANCER RGB CL32 DDR5",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4256,
+        "title": "RAM GSKILL 16GO 2X8GO 3600MHZ RIPJAWS V DDR4 CL18",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4257,
+        "title": "RAM XPG 16GO 2X8GO 3200MHZ GAMMIX D35 DDR4",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4258,
+        "title": "RAM CORSAIR 32GO 2X16GO 6200MHZ VENGEANCE DDR5 CL36",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4259,
+        "title": "RAM XPG 64GO 2X32GO 6000MHZ LANCER RGB CL30 DDR5",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4260,
+        "title": "RAM MAGMA 16GO 3200MHZ DDR4",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4261,
+        "title": "RAM MAGMA 32GO 2X16GO 6000MHZ DDR5 RGB WHITE",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4262,
+        "title": "RAM MAGMA 32GO 2X16GO 6000MHZ DDR5 RGB BLACK",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4263,
+        "title": "RAM XPG 32GO 2X16GO 6400MHZ LANCER BLADE CL32 DDR5",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4264,
+        "title": "RAM XPG 32GO 2X16GO 5600MHZ LANCER BLADE CL46 DDR5",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4265,
+        "title": "RAM ADATA XPG 32GO 2X16GO 3200MHZ SPECTRIX D35G RGB DDR4 BLACK",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4266,
+        "title": "RAM XPG 32GO 2X16GO 6000MHZ LANCER BLADE CL48 DDR5",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4267,
+        "title": "RAM XPG 16GO 2X8GO 3200MHZ SPECTRIX D35G RGB DDR4 BLACK",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4268,
+        "title": "RAM ADATA PREMIER 16GO 4800MHZ DDR5",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4269,
+        "title": "RAM ADATA PREMIER 16GO 3200MHZ DDR4",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4270,
+        "title": "RAM CORSAIR 64GO 2X32GO 6400MHZ VENGEANCE RGB DDR5 CL32",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4271,
+        "title": "RAM XPG 64GO 2X32GO 6000MHZ LANCER BLADE CL30 DDR5 WHITE",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4272,
+        "title": "RAM KINGSTON 4GO 2666MHZ DDR4",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4273,
+        "title": "RAM XPG 32GO 2X16GO 7200MHZ LANCER RGB CL34 DDR5 WHITE",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4274,
+        "title": "RAM XPG 64GO 2X32GO 6400MHZ CASTER RGB CL32 DDR5",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4275,
+        "title": "RAM XPG 32GO 2X16GO 6000MHZ LANCER BLADE CL48 DDR5 WHITE",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4276,
+        "title": "RAM XPG 64GO 2X32GO 6000MHZ LANCER BLADE CL30 DDR5",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4277,
+        "title": "RAM ADATA XPG 16GO 2X8GO 5200MHZ DDR5 LANCER CL38 WHITE",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4278,
+        "title": "RAM GSKILL 16GO 2X8GO 3600MHZ TRIDENT Z RGB CL18",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4279,
+        "title": "RAM XPG 32GO 2X16GO 3600MHZ SPECTRIX D50 RGB WHITE DDR4",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4280,
+        "title": "RAM XPG 32GO 2X16GO 3600MHZ SPECTRIX D50 RGB DDR4",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4281,
+        "title": "RAM XPG 16GO 2X8GO 3200MHZ SPECTRIX D35G RGB DDR4 WHITE",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4282,
+        "title": "RAM XPG 32GO 2X16GO 7200MHZ LANCER RGB CL34 DDR5",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4283,
+        "title": "RAM XPG 32GO 2X16GO 3600MHZ SPECTRIX D35G RGB DDR4",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4284,
+        "title": "RAM DAHUA 8GO 3200MHZ DDR4 C300",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4285,
+        "title": "ADATA XPG 16GO 2X8GO 3200MHZ SPECTRIX D41 RGB DDR4 CL16",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4286,
+        "title": "RAM DAHUA 16GO 3200MHZ DDR4 C300",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4287,
+        "title": "RAM TEAMGROUP 16GO 2X8GO 3600MHZ TFORCE DELTA RGB CL18",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4288,
+        "title": "RAM CORSAIR 8GO 3200MHZ VENGENACE LPX CL16",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4289,
+        "title": "RAM GSKILL 16GO 2X8GO 4000MHZ RIPJAWS V DDR4",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4290,
+        "title": "RAM CORSAIR 16GO 2X8GO 3600MHZ VENGEANCE LPX",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4291,
+        "title": "RAM ADATA XPG 16GO 2X8GO 5200MHZ DDR5 LANCER CL38 BLACK",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4292,
+        "title": "RAM CORSAIR 32GO 2X16GO 3600MHZ VENGEANCE LPX DDR4",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4293,
+        "title": "RAM GSKILL 32GO 2X16GO 3600MHZ RIPJAWS V DDR4 CL19",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4294,
+        "title": "RAM GSKILL 32GO 2X16GO 6000MHZ FLARE X5 DDR5 CL30",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4295,
+        "title": "RAM XPG 32GO 2X16GO 3200MHZ SPECTRIX D45G RGB DDR4",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4296,
+        "title": "RAM KINGSTON 8GO 3200MHZ FURY BEAST DDR4 CL16",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4297,
+        "title": "RAM CORSAIR 16GO 2X8GO 3200MHZ VENGEANCE RGB RS DDR4 CL16",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4298,
+        "title": "RAM PATRIOT 16GO 2X8GO 5600MHZ DDR5",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4299,
+        "title": "RAM GSKILL 32GO 2X16GO 7600MHZ TRIDENT Z5 RGB DDR5 CL36",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4300,
+        "title": "RAM ADATA XPG 16GO 2X8GO 3600MHZ SPECTRIX D60G DDR4 RGB CL18",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4301,
+        "title": "RAM PATRIOT 16GO 2X8GO 4800MHZ DDR5",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4302,
+        "title": "RAM PATRIOT 16GO 2X8GO 5200MHZ DDR5",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4303,
+        "title": "RAM XPG 32GO 2X16GO 6400MHZ CASTER RGB CL32 DDR5",
+        "category": "\nRAM",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4304,
+        "title": "COLORFUL H610M E WIFI V20 DDR4",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4305,
+        "title": "COLORFUL BATTLE AX B760M T PRO WIFI DDR4",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4306,
+        "title": "COLORFUL BATTLE AX B650M GHA V14 WIFI",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4307,
+        "title": "BIOSTAR B650MT AM5",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4308,
+        "title": "MSI PRO B760M P DDR4",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4309,
+        "title": "GIGABYTE Z890M GAMING X",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4310,
+        "title": "MSI PRO B760M B DDR4",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4311,
+        "title": "MSI B850 GAMING PLUS WIFI",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4312,
+        "title": "ASUS PRIME B550M K",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4313,
+        "title": "ASUS PRIME B760 PLUS DDR5",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4314,
+        "title": "ASUS PRIME Z790M-PLUS",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4315,
+        "title": "MSI PRO B850-P WIFI",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4316,
+        "title": "MSI MAG B760 TOMAHAWK WIFI DDR5",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4317,
+        "title": "KIT UPGRADE INTEL I5 14400F + MSI PRO H610M E DDR4",
+        "category": "\nProcesseurs, Carte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4318,
+        "title": "MSI B550M PRO-VDH",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4319,
+        "title": "GIGABYTE X870 GAMING WIFI6",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4320,
+        "title": "MSI MAG B860 TOMAHAWK WIFI",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4321,
+        "title": "ASUS PRIME H610M K DDR4",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4322,
+        "title": "ASUS PRIME Z890-P",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4323,
+        "title": "MSI PRO B650M-B DDR5",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4324,
+        "title": "GIGABYTE B650M S2H",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4325,
+        "title": "GIGABYTE A620M H",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4326,
+        "title": "ASROCK H610M-HVS/M.2 R2.0",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4327,
+        "title": "GIGABYTE X870 EAGLE WIFI7",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4328,
+        "title": "CARTE MERE BIOSTAR B550MT",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4329,
+        "title": "BIOSTAR B760MX2-E",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4330,
+        "title": "MSI PRO H610M-E DDR4",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4331,
+        "title": "GIGABYTE A620M DS3H DDR5",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4332,
+        "title": "GIGABYTE B760 AORUS ELITE AX DDR5",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4333,
+        "title": "ASUS TUF GAMING B650M PLUS",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4334,
+        "title": "ASUS PRIME B760M K DDR5",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4335,
+        "title": "ASUS PRIME B450M-A II",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4336,
+        "title": "ASUS PRIME B650M A II",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4337,
+        "title": "GIGABYTE B650M H",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4338,
+        "title": "GIGABYTE B650 AORUS ELITE AX V2",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4339,
+        "title": "GIGABYTE B650 EAGLE AX",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4340,
+        "title": "GIGABYTE B760M GAMING X DDR5",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4341,
+        "title": "KIT UPGRADE INTEL ULTRA 7 265K + GIGABYTE Z890M GAMING X",
+        "category": "\nProcesseurs, Carte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4342,
+        "title": "ASROCK B450M HDV R4.0",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4343,
+        "title": "ASUS PRIME H610M K DDR5",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4344,
+        "title": "ASUS PRIME B760M K D4",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4345,
+        "title": "GIGABYTE B650E AORUS MASTER",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4346,
+        "title": "ASUS PRIME Z790 P DDR5",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4347,
+        "title": "KIT UPGRADE INTEL ULTRA 5 245K + GIGABYTE Z890M GAMING X",
+        "category": "\nProcesseurs, Carte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4348,
+        "title": "GIGABYTE B650 GAMING X AX V2",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4349,
+        "title": "ASUS ROG STRIX X570 ROG CROSSHAIR VIII DARK HEROS",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4350,
+        "title": "ASUS PRIME X870 P",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4351,
+        "title": "BIOSTAR H610MHP DDR4",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4352,
+        "title": "GIGABYTE B450M K",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4353,
+        "title": "GIGABYTE B760M AORUS PRO DDR5",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4354,
+        "title": "GIGABYTE AORUS X670E MASTER",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4355,
+        "title": "ASUS PRIME X670 P",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4356,
+        "title": "ASUS TUF GAMING B760M PLUS II",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4357,
+        "title": "ASUS TUF GAMING B650 PLUS",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4358,
+        "title": "ASUS PRIME B450M-K II",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4359,
+        "title": "GIGABYTE B760 DS3H AX DDR5",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4360,
+        "title": "ASROCK B450M PRO4 R2.0 DDR4",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4361,
+        "title": "GIGABYTE B650M GAMING X AX",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4362,
+        "title": "KIT UPGRADE RYZEN 5 PRO 5650G + MSI B450M A PRO MAX",
+        "category": "\nProcesseurs, Carte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4363,
+        "title": "KIT UPGRADE RYZEN 5 PRO 5650G + ASUS PRIME B450M K II",
+        "category": "\nProcesseurs, Carte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4364,
+        "title": "GIGABYTE H610M K DDR4",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4365,
+        "title": "GIGABYTE X670 AORUS ELITE AX",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4366,
+        "title": "GIGABYTE H610M S2H DDR5",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4367,
+        "title": "ASROCK Z790 PG SONIC DDR5",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4368,
+        "title": "KIT UPGRADE RYZEN 5 5600G ASROCK B450M PRO4 R2.0",
+        "category": "\nProcesseurs, Carte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4369,
+        "title": "ASROCK B550M PRO4 DDR4",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4370,
+        "title": "GIGABYTE B550M K",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4371,
+        "title": "GIGABYTE B650M AORUS ELITE AX",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4372,
+        "title": "GIGABYTE X670E AORUS PRO X",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4373,
+        "title": "GIGABYTE X670 GAMING X AX V2",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4374,
+        "title": "ASROCK X670E STEEL LEGEND AM5",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4375,
+        "title": "ASROCK Z690 PG RIPTIDE DDR4",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4376,
+        "title": "ASROCK B760M PG SONIC WIFI DDR5",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4377,
+        "title": "GIGABYTE B760M AORUS ELITE AX DDR5",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4378,
+        "title": "GIGABYTE B760M DS3H DDR5",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4379,
+        "title": "ASUS TUF GAMING A620M PLUS DDR5",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4380,
+        "title": "ASUS ROG STRIX B650E F GAMING WIFI",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4381,
+        "title": "ASUS ROG STRIX B760 A GAMING WIFI DDR5",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4382,
+        "title": "GIGABYTE B450 AORUS ELITE V2",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4383,
+        "title": "GIGABYTE B550 GAMING X V2 DDR4",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4384,
+        "title": "GIGABYTE B650M D3HP DD5",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4385,
+        "title": "ASROCK Z790 PRO RS DDR5",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4386,
+        "title": "ASUS PRIME A620M K",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4387,
+        "title": "ASUS TUF GAMING A620M PLUS WIFI",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4388,
+        "title": "ASUS TUF GAMING Z790 PLUS WIFI DDR5",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4389,
+        "title": "ASUS ROG STRIX B550 F GAMING WIFI II",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4390,
+        "title": "GIGABYTE B550M AORUS ELITE",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4391,
+        "title": "ASUS TUF GAMING X670E PLUS WIFI",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4392,
+        "title": "ASUS ROG STRIX X570 I GAMING WIFI AM4",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4393,
+        "title": "ASUS ROG STRIX B550 A GAMING",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4394,
+        "title": "ASROCK B550M PHANTOM GAMING 4",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4395,
+        "title": "ASROCK B760M PRO RS D4",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4396,
+        "title": "ASUS PROART B660 CREATOR D4",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4397,
+        "title": "ASUS ROG STRIX Z790 A GAMING WIFI II DDR5",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4398,
+        "title": "ASUS PRIME B650M K",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4399,
+        "title": "ASUS TUF GAMING B660M PLUS WIFI DDR5",
+        "category": "\nCarte mére",
+        "predictedCategory": "MOTHERBOARD"
+    },
+    {
+        "id": 4400,
+        "title": "SSD CUSU CV 7000-P 1TO NVME GEN4 7300MBs",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4401,
+        "title": "SSD CRUCIAL P3 PLUS 1TO NVME GEN4 5000MBs",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4402,
+        "title": "SSD SAMSUNG 990 EVO PLUS 4TO NVME 7250MBs",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4403,
+        "title": "SSD NVME WD 1TO BLACK SN770 GEN4 5150MB/S",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4404,
+        "title": "SSD M.2 NVME DAHUA 1TO C900 GEN3",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4405,
+        "title": "SSD M.2 LEXAR 1TO THOR PRO NVME GEN4 7000MB/s",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4406,
+        "title": "SSD M.2 NVME KINGSTON 2TO NV3 PCIE4.0 6000MB/s",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4407,
+        "title": "SSD NVME WD 1TO BLACK SN770 GEN4 5150MB/s",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4408,
+        "title": "SSD NVME WD 2TO BLACK SN770 GEN4 5150MB/s",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4409,
+        "title": "SSD M.2 MSI SPATIUM M371 500GO NVME GEN 3",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4410,
+        "title": "SSD M.2 ADATA 1TO LEGEND 970 PRO NVME GEN5",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4411,
+        "title": "SSD M.2 NVME FORGEON 2TO NIMBUS SSD PLUS GEN4",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4412,
+        "title": "SSD SATA 2.5″ MSI SPATIUM S270 960GO",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4413,
+        "title": "SSD 2.5″ ADATA 512GO SU650 SATA 6GO/S",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4414,
+        "title": "SSD NVME XPG 2TO GAMMIX S60 GEN4 5000MB/S",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4415,
+        "title": "SSD SAMSUNG 2TO 990 PRO NVME 7450MBs",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4416,
+        "title": "SSD M.2 NVME DAHUA 256GO C900 GEN3",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4417,
+        "title": "SSD 2.5″ DAHUA 256GO C800A",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4418,
+        "title": "SSD 2.5″ DAHUA 512GO C800A",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4419,
+        "title": "SSD M.2 CORSAIR FORCE MP600 R2 1TO NVME GEN4",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4420,
+        "title": "DISQUE DUR HDD 3.5″ TOSHIBA 1TO 7200TR/Min",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4421,
+        "title": "SSD M.2 NVME MSI SPATIUM M470 PRO 2TO PCIe 4.0",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4422,
+        "title": "SAMSUNG SSD 2.5″ 870 EVO 2TO 560MB/S",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4423,
+        "title": "SSD SAMSUNG 990 PRO 1TO NVME",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4424,
+        "title": "SSD M.2 NVME WD BLACK 2TO SN7100 GEN4 7250MB/s",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4425,
+        "title": "SSD 2.5″ DAHUA 1TO C800A",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4426,
+        "title": "SSD M.2 NVME XPG 2TO GAMMIX S50 CORE PCIE4.0",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4427,
+        "title": "SSD M.2 NVME XPG 1TO GAMMIX S50 CORE PCIE4.0",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4428,
+        "title": "SSD NVME XPG 1TO GAMMIX S60 GEN4 5000MB/S",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4429,
+        "title": "SSD M.2 ADATA 512GO LEGEND 710 NVME GEN3",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4430,
+        "title": "SSD M.2 KINGSTON 1TO NV3 NVME PCIE4.0 6000MB/s",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4431,
+        "title": "SSD M.2 NVME SAMSUNG 4TO 990 PRO HEATSINK 7450MB/s",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4432,
+        "title": "SSD M.2 SAMSUNG 1TO 980 PRO NVME PCIE4.0 7000MB/s",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4433,
+        "title": "SSD M.2 HIKSEMI WAVE 1024GO NVME",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4434,
+        "title": "DISQUE DUR HDD SATA 2.5 WD 1TO BLUE",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4435,
+        "title": "SSD 2.5″ TEAMGROUP 256GO CX2 SATA 6GO/S",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4436,
+        "title": "SSD M.2 LEXAR NQ790 1TO NVME GEN4",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4437,
+        "title": "SSD M.2 ADATA 512GO LEGEND 850 NVME GEN4",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4438,
+        "title": "SSD NVME XPG 2TO GAMMIX S70 BLADE GEN4 7400MB/S",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4439,
+        "title": "SSD NVME XPG 1TO GAMMIX S70 BLADE GEN4 7400MB/S",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4440,
+        "title": "SSD 2.5″ HIKSEMI 512GO WAVE SATA 6GB/S",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4441,
+        "title": "SSD M.2 NVME 1TO DAHUA C970 PLUS GEN4",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4442,
+        "title": "SSD 2.5″ ADATA 256GO SU680 SATA 6GO/S",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4443,
+        "title": "SSD KINGSTON HYPERX 480GO FURY RGB",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "GPU"
+    },
+    {
+        "id": 4444,
+        "title": "KINGSTON NV2 NVME 1TO GEN4 3500MBs",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4445,
+        "title": "KINGSTON KC3000 1024 GO",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4446,
+        "title": "WESTERN DIGITAL SSD WD BLUE SN570 500GO",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4447,
+        "title": "WESTERN DIGITAL SSD WD BLUE SA510 1TO 2.5″",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4448,
+        "title": "WESTERN DIGITAL SSD WD BLUE SA510 500GO 2.5″",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4449,
+        "title": "WESTERN DIGITAL SSD WD BLUE SA510 250GO 2.5″",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4450,
+        "title": "SAMSUNG SSD 870 EVO 1TO",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4451,
+        "title": "SAMSUNG SSD 870 EVO 250GO",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4452,
+        "title": "SSD M.2 KINGSTON 500GO NV1 NVME",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4453,
+        "title": "SSD M.2 KINGSTON 500GO A2000 NVME",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4454,
+        "title": "SSD NVME CRUCIAL P2 500GO PCIe GEN3",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4455,
+        "title": "SSD TEAMGROUP M.2 MS30 512GO SATA III",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4456,
+        "title": "SSD 2.5″ TEAMGROUP 1TO CX2 SATA 6GO/S",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4457,
+        "title": "SSD 2.5″ ADATA 512GO SU680 SATA 6GO/S",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4458,
+        "title": "SSD M.2 NVME DAHUA 512GO C900 GEN3",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4459,
+        "title": "SSD SATA HIKVISION 512GO E100",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4460,
+        "title": "SSD NVME XPG 512GO GAMMIX S60 GEN4 5000MB/S",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "RAM"
+    },
+    {
+        "id": 4461,
+        "title": "SSD NVME WD 1TO SN580 NVME GEN4",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4462,
+        "title": "SSD NVME TEAMGROUP 2TO T-FORCE CARDEA A440 GEN4 7000MB/S",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4463,
+        "title": "SSD M.2 SAMSUNG 980 PRO 2TO NVME PS5 7000MB/S",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4464,
+        "title": "SSD M.2 SAMSUNG 500GO 970 EVO PLUS NVME",
+        "category": "\nDisque dur & SSD",
+        "predictedCategory": "STORAGE"
+    },
+    {
+        "id": 4465,
+        "title": "ALIMENTATION COOLER MASTER MWE 550W 80PLUS BRONZE V2",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4466,
+        "title": "ALIMENTATION DEEPCOOL PL750D 80PLUS BRONZE WH 750W",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4467,
+        "title": "ALIMENTATION COOLER MASTER MWE 750W V3 BRONZE",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4468,
+        "title": "ALIMENTATION ANTEC ATOM B650 650W 80PLUS BRONZE",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4469,
+        "title": "ALIMENTATION ANTEC META V450 450W",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4470,
+        "title": "ALIMENTATION ANTEC META V550 550W",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4471,
+        "title": "ALIMENTATION MSI MAG A650BNL 650W 80PLUS BRONZE",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4472,
+        "title": "ALIMENTATION MARS GAMING MPB750SI 80PLUS BRONZE 750W WHITE",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4473,
+        "title": "ALIMENTATION MARS GAMING MPB1000P 80PLUS GOLD 1000W ATX3.1",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4474,
+        "title": "ALIMENTATION MARS GAMING 750W 80PLUS BRONZE MPB750S ARGB",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4475,
+        "title": "ALIMENTATION MARS GAMING 850W 80PLUS BRONZE MPB850M",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4476,
+        "title": "ALIMENTATION MARS GAMING MPB650SI 80PLUS BRONZE 650W",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4477,
+        "title": "ALIMENTATION DEEPCOOL PF700D BLACK 80PLUS WHITE",
+        "category": "\nAlimentation",
+        "predictedCategory": "CASE_FAN"
+    },
+    {
+        "id": 4478,
+        "title": "ALIMENTATION DEEPCOOL PF600D BLACK 80PLUS WHITE",
+        "category": "\nAlimentation",
+        "predictedCategory": "CASE_FAN"
+    },
+    {
+        "id": 4479,
+        "title": "ALIMENTATION RAIDMAX VORTEX 800W 80 PLUS GOLD",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4480,
+        "title": "ALIMENTATION DEEPCOOL PL650D 650W 80 PLUS BRONZE",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4481,
+        "title": "ALIMENTATION XIGMATEK 700W X POWER III ARCTIC 85 PLUS EFFICIENCY",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4482,
+        "title": "MSI MAG A500DN 500W 80PLUS WHITE",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4483,
+        "title": "GAMEMAX 500W GE500",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4484,
+        "title": "ALIMENTATION MARS GAMING 650W 80PLUS BRONZE MPB650",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4485,
+        "title": "GAMEMAX 700W GE700",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4486,
+        "title": "GAMEMAX 600W GE600",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4487,
+        "title": "ALIMENTATION ACER 750W 80PLUS BRONZE FULL MODULAIR AC750 WHITE",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4488,
+        "title": "ACER 750W 80PLUS BRONZE FULL MODULAIR AC750 BLACK",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4489,
+        "title": "ALIMENTATION MSI MAG A650GL 80PLUS GOLD PCIE5",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4490,
+        "title": "ACER 650W AC650 80PLUS BRONZE FULL MODULAIRE WHITE",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4491,
+        "title": "ALIMENTATION COOLER MASTER MWE 650W 80PLUS BRONZE V2",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4492,
+        "title": "ALIMENTATION CORSAIR CV550 550W 80PLUS BRONZE",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4493,
+        "title": "ALIMENTATION CORSAIR CX750 750W 80PLUS BRONZE",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4494,
+        "title": "ALIMENTATION COOLER MASTER G800 GOLD",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4495,
+        "title": "ALIMENTATION COOLER MASTER MWE 750W 80PLUS BRONZE V2",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4496,
+        "title": "ALIMENTATION COOLER MASTER G GOLD 750W V2",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4497,
+        "title": "COOLER MASTER MWE 850W V2 80PLUS GOLD FULL MODULAIRE ATX 3.0 PCIE 5.0",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4498,
+        "title": "ACER 650W AC650 80PLUS BRONZE FULL MODULAIRE BLACK",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4499,
+        "title": "ACER 1000W AC1000 80PLUS BRONZE FULL MODULAIRE",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4500,
+        "title": "ACER 550W 80PLUS BRONZE FULL MODULAIR AC550 BLACK",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4501,
+        "title": "ACER 550W 80PLUS BRONZE FULL MODULAIR AC550 WHITE",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4502,
+        "title": "GAMEMAX VP 600 RGB 80PLUS BRONZE",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4503,
+        "title": "GAMEMAX 450W GE450",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4504,
+        "title": "ASUS ROG STRIX 1200W AURA EDITION GOLD ATX3.0",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4505,
+        "title": "ASUS TUF GAMING 1000W 80PLUS GOLD ATX 3.0",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4506,
+        "title": "ASUS PRIME AP 850G 850W 80PLUS GOLD MODULAIR",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4507,
+        "title": "ASUS PRIME AP 750G 750W 80PLUS GOLD MODULAIR",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4508,
+        "title": "ASUS ROG LOKI SFX-L 1000W PLATINUM RGB",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4509,
+        "title": "ASUS ROG STRIX 1000W AURA EDITION 80PLUS GOLD",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4510,
+        "title": "ALIMENTATION CORSAIR CX650 650W 80PLUS BRONZE",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4511,
+        "title": "ALIMENTATION LIAN LI SP850 850W 80PLUS GOLD SFX",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4512,
+        "title": "ALIMENTATION ASUS TUF GAMING 750W 80PLUS BRONZE",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4513,
+        "title": "ALIMENTATION ASUS TUF GAMING 450W 80PLUS BRONZE",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4514,
+        "title": "ALMENTATION LC POWER 650W LC6550 80PLUS BRONZE",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4515,
+        "title": "ALIMENTATION GIGABYTE P550B 550W 80PLUS BRONZE",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4516,
+        "title": "ALIMENTATION CORSAIR RM850E 850W 80PLUS GOLD MODULAIRE ATX3.0",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4517,
+        "title": "ALIMENTATION SEASONIC 750W B12 BC-750 80PLUS BRONZE",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4518,
+        "title": "ALIMENTATION CORSAIR CV450 450W 80PLUS BRONZE",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4519,
+        "title": "COOLER MASTER MWE 450W BRONZE V2",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4520,
+        "title": "ALMENTATION LC-POWER 550W LC6550 V2.3 BRONZE",
+        "category": "\nAlimentation",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4521,
+        "title": "WATERCOOLING CORASAIR H100 RGB 240",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4522,
+        "title": "AIR COOLING DEEPCOOL AG620 ARGB V2 BLACK",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4523,
+        "title": "PATE THERMIQUE DEEPCOOL DM9 1.5G",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4524,
+        "title": "WATERCOOLING MSI CORELIQUID A13 360 ARGB WHITE",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4525,
+        "title": "VENTILO MARS GAMING MFD 120MM RGB TRANSPARENT",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CASE_FAN"
+    },
+    {
+        "id": 4526,
+        "title": "AIR COOLING MARS GAMING MCPU66 RGB DUAL FAN",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4527,
+        "title": "AIR COOLING MARS GAMING MCPU33 FRGB",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4528,
+        "title": "WATERCOOLING MARS GAMING ML-VISION 240 BLACK ARGB",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4529,
+        "title": "WATERCOOLING MARS GAMING ML-VISION 360 BLACK ARGB",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4530,
+        "title": "WATERCOOLING MARS GAMING ML-PRO 360 BLACK",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4531,
+        "title": "WATERCOOLING MARS GAMING ML-PRO 240 BLACK",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4532,
+        "title": "WATERCOOLING MARS GAMING ML-ONE 240 BLACK",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4533,
+        "title": "AIR COOLING DEEPCOOL AK620 DIGITAL BLACK",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4534,
+        "title": "AIR COOLING DEEPCOOL AK620 DIGITAL WH BLANC",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4535,
+        "title": "VENTILO DEEPCOOL AK620 DIGITAL PRO BLACK",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4536,
+        "title": "AIR COOLING DEEPCOOL AK620 ZERO DARK",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4537,
+        "title": "AIR COOLING DEEPCOOL AK500 WHITE",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4538,
+        "title": "AIR COOLING DEEPCOOL AK500 ZERO DARK",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4539,
+        "title": "AIR COOLING DEEPCOOL AK400 DIGITAL PRO BLACK",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4540,
+        "title": "AIR COOLING DEEPCOOL AK400 DIGITAL BLACK",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4541,
+        "title": "AIR COOLING DEEPCOOL ASSASSIN IV WHITE",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4542,
+        "title": "AIR COOLING DEEPCOOL ASSASSIN IV BLACK",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4543,
+        "title": "AIR COOLING DEEPCOOL AG620 ARGB V2 WHITE",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4544,
+        "title": "AIR COOLING DEEPCOOL AG500 ARGB V2 BLACK",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4545,
+        "title": "AIR COOLING DEEPCOOL AG400 DIGITAL PLUS ARGB BLACK",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4546,
+        "title": "WATERCOOLING DEEPCOOL LQ240 ARGB BLACK",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4547,
+        "title": "WATERCOOLING DEEPCOOL LS720S ZERO DARK",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4548,
+        "title": "WATERCOOLING DEEPCOOL LE520 ARGB BLACK",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4549,
+        "title": "WATERCOOLING DEEPCOOL LE500 MARRS BLACK RGB",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4550,
+        "title": "WATERCOOLING DEEPCOOL LE240 V2 BLACK RGB",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4551,
+        "title": "WATERCOOLING ASUS TUF GAMING LC II 240 ARGB",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4552,
+        "title": "WATERCOOLING XIGMATEK FROZR O II 240 BLACK ARGB",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4553,
+        "title": "WATERCOOLING MAGMA WL240FT ARGB WHITE",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4554,
+        "title": "WATERCOOLING PHANTEKS GLACIER ONE 240 D30 RGB",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4555,
+        "title": "PHANTEKS GLACIER ONE 240 D30 RGB",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4556,
+        "title": "PACK VENTILO GAMDIAS AEOLUS M2-1204R ARGB WHITE",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CASE_FAN"
+    },
+    {
+        "id": 4557,
+        "title": "PACK VENTILO GAMDIAS AEOLUS M2-1204R ARGB BLACK",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CASE_FAN"
+    },
+    {
+        "id": 4558,
+        "title": "AIR COOLING GAMDIAS BOREAS M2-51D WHITE",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4559,
+        "title": "WATERCOOLING GAMDIAS AURA GL240 V2 WHITE",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4560,
+        "title": "WATERCOOLING GAMDIAS AURA GL240 V2 BLACK",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4561,
+        "title": "WATERCOOLING MARS GAMING ML-ONE 360 FRGB",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4562,
+        "title": "WATERCOOLING MSI CORELIQUID E240 ARGB WHITE",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4563,
+        "title": "WATERCOOLING MSI CORELIQUID E360 RGB WHITE",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4564,
+        "title": "MSI MAG CORELIQUID 240R V2 BLACK",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4565,
+        "title": "VENTILO MARS GAMING MCPU120 RGB LGA1700",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4566,
+        "title": "WATERCOOLING MSI MAG CORELIQUID M240 RGB",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4567,
+        "title": "PACK VENTILO MSI MAG MAX F12A 3H 3FAN ARGB + CONTROLLER",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CASE_FAN"
+    },
+    {
+        "id": 4568,
+        "title": "WATERCOOLING XIGMATEK ALPHA FROZR O II ARCTIC 240",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4569,
+        "title": "VENTILO MAGMA 1236 MIRRO FAN ARGB BLACK",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CASE_FAN"
+    },
+    {
+        "id": 4570,
+        "title": "WATERCOOLING BE QUIET PURE LOOP 2 FX 240MM ARGB",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4571,
+        "title": "VENTILO ANTEC A30 PRO",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4572,
+        "title": "PATE THERMIQUE COOLER MASTER MASTERGEL PRO V2",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4573,
+        "title": "PATE THERMIQUE COOLER MASTER MASTERGEL REGULAR",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4574,
+        "title": "VENTILO COOLER MASTER I70C RGB LGA 1700",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4575,
+        "title": "WATERCOOLING ARCTIC LIQUID FREEZER III 240 ARGB",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4576,
+        "title": "VENTILO BE QUIET PURE ROCK 2 FX BLACK RGB",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4577,
+        "title": "VENTILO CPU MAGMA ARGB BLACK / WHITE",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CASE"
+    },
+    {
+        "id": 4578,
+        "title": "WATERCOOLING XIGMATEK LIQUID KILLER X ARCTIC 360 ARGB",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4579,
+        "title": "PACK VENTILO ANTEC PRIZM 120 ARGB 3+2+C",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CASE_FAN"
+    },
+    {
+        "id": 4580,
+        "title": "WATERCOOLING GIGABYTE AORUS WATERFORCE II 240",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4581,
+        "title": "THERMAL GRIZZLY AERONAUT TG-A-001-R",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4582,
+        "title": "PATE THERMAL GRIZZLY KRYONAUT TG-K-001-RS 1G",
+        "category": "\nRefroidissement",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4583,
+        "title": "LIAN LI GALAHAD II TRINITY SL-INF 240 ARGB WHITE",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4584,
+        "title": "WATERCOOLING MAGMA WL120FT ARGB WHITE",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4585,
+        "title": "REFROIDISSEUR SPIRIT OF GAMER AIRBLADE VE700 RGB",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4586,
+        "title": "PACK VENTILO GAMDIAS AEOLUS M3-1204R BLACK",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CASE_FAN"
+    },
+    {
+        "id": 4587,
+        "title": "AIR COOLING GAMDIAS BOREAS M1-610 RGB",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4588,
+        "title": "AIR COOLING GAMDIAS BOREAS M2-51D BLACK",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4589,
+        "title": "VENTILO BE QUIET PURE ROCK SLIM 2",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4590,
+        "title": "WATERCOOLING LIAN LI GALAHAD II TRINITY 240 ARGB",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4591,
+        "title": "VENTILO NOCTUA NF-A14x25 G2 PWM 140MM",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CASE_FAN"
+    },
+    {
+        "id": 4592,
+        "title": "VENTILO COOLER MASTER HYPER 212 HALO WHITE",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4593,
+        "title": "NOCTUA NH-D15 G2",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4594,
+        "title": "VENTILO COOLER MASTER HYPER 212 HALO BLACK",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4595,
+        "title": "LIAN LI GALAHAD II TRINITY SL-INF 240 RGB BLACK",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4596,
+        "title": "VENTILO ARCTIC FREEZER 36 ARGB BLACK",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4597,
+        "title": "VENTILO ANTEC A30 NEO ARGB",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4598,
+        "title": "WATERCOOLING TUF GAMING LC II 360 ARGB",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4599,
+        "title": "REFROIDISSEUR SPIRIT OF GAMER AIRBLADE VE800 RGB",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4600,
+        "title": "REFROIDISSEUR SPIRIT OF GAMER AIRBLADE VE500 RGB",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4601,
+        "title": "VENTILO COOLER MASTER HYPER 212 SPECTRUM V3 RGB",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4602,
+        "title": "VENTILO COOLER MASTER HYPER 622 HALO BLACK RGB",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4603,
+        "title": "VENTILO MARS GAMING MCPUPRO BLACK",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4604,
+        "title": "VENTILO NOCTUA NF-A14 PWM CHROMAX BLACK",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CASE_FAN"
+    },
+    {
+        "id": 4605,
+        "title": "PATE THERMIQUE NOCTUA NT-H2 10G",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4606,
+        "title": "WATERCOOLING ARCTIC LIQUID FREEZER III 360 ARGB",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4607,
+        "title": "VENTILO BE QUIET PURE ROCK 2 BLACK",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4608,
+        "title": "WATERCOOLING ASUS ROG STRIX RYUJIN III 360 LGA1700",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4609,
+        "title": "PATE THERMIQUE ARCTIC MX-6 4G",
+        "category": "\nRefroidissement",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4610,
+        "title": "ARCTIC LIQUID FREEZER III 360 ARGB WHITE",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4611,
+        "title": "VENTILO ARCTIC FREEZER 36 ARGB WHITE",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    },
+    {
+        "id": 4612,
+        "title": "PATE THERMAL GRIZZLY MINUS PAD 8 (30 X 30 X 1.5 Mm)",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CASE_FAN"
+    },
+    {
+        "id": 4613,
+        "title": "PATE THERMAL GRIZZLY MINUS PAD 8 (30 X 30 X 0.5 Mm)",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CASE_FAN"
+    },
+    {
+        "id": 4614,
+        "title": "PATE THERMAL GRIZZLY AERONAUT TG-A-030-R  7,8G",
+        "category": "\nRefroidissement",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4615,
+        "title": "PATE THERMAL GRIZZLY HYDRONAUT TG-H001-RS  1G",
+        "category": "\nRefroidissement",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4616,
+        "title": "PATE THERMAL GRIZZLY CONDUCTONAUT EXTREME TG-CE-001-R 1G",
+        "category": "\nRefroidissement",
+        "predictedCategory": "PSU"
+    },
+    {
+        "id": 4617,
+        "title": "PACK VENTILO ASUS TUF GAMING TF120 3FAN ARGB + CONTROLLER",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CASE_FAN"
+    },
+    {
+        "id": 4618,
+        "title": "WATERCOOLING ASUS ROG STRIX LC 240 RGB",
+        "category": "\nRefroidissement",
+        "predictedCategory": "CPU_COOLER"
+    }
+]

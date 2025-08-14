@@ -31,18 +31,37 @@ def evaluate_model(model, X_test, y_test, metrics_path="models/metrics.json", re
 
     
     # Calculate metrics
+    # Assuming you have a mapping from class index to label:
+    classes = np.unique(y_test)  # or use your id2label mapping
+
+    def to_serializable(val):
+        if isinstance(val, np.ndarray):
+            return val.tolist()
+        elif isinstance(val, (np.generic,)):
+            return val.item()
+        else:
+            return val
+
+    # Example for per-class metrics
+    precision_per_class = dict(zip(classes, precision_score(y_test, y_pred, average=None, zero_division=0)))
+    recall_per_class = dict(zip(classes, recall_score(y_test, y_pred, average=None, zero_division=0)))
+    f1_per_class = dict(zip(classes, f1_score(y_test, y_pred, average=None, zero_division=0)))
+
     metrics = {
         "accuracy": accuracy_score(y_test, y_pred),
-        "precision": precision_score(y_test, y_pred, zero_division=0, average=params['average']),
-        "recall": recall_score(y_test, y_pred, zero_division=0, average=params['average']),
-        "f1_score": f1_score(y_test, y_pred, zero_division=0, average=params['average']),
-        "roc_auc": roc_auc_score(y_test, y_proba) if len(np.unique(y_test)) == 2 else None,
+        "precision": precision_per_class,
+        "recall": recall_per_class,
+        "f1_score": f1_per_class,
+        "roc_auc": roc_auc_score(y_test, y_proba) if len(classes) == 2 else None,
         "pr_auc": average_precision_score(y_test, y_proba, average=params['average']),
         "log_loss": log_loss(y_test, y_proba),
-        "specificity": None,  # we derive from confusion matrix below
+        "specificity": None,
         "mcc": matthews_corrcoef(y_test, y_pred),
         "balanced_accuracy": balanced_accuracy_score(y_test, y_pred)
     }
+
+    # Convert everything to JSON-friendly format
+    metrics_serializable = {k: to_serializable(v) for k, v in metrics.items()}
 
     # Calculate specificity from confusion matrix
     # tn, fp, fn, tp = confusion_matrix(y_test, y_pred).ravel()
@@ -52,7 +71,7 @@ def evaluate_model(model, X_test, y_test, metrics_path="models/metrics.json", re
     # Save metrics.json
     os.makedirs(os.path.dirname(metrics_path), exist_ok=True)
     with open(metrics_path, "w") as f:
-        json.dump(metrics, f, indent=4)
+        json.dump(metrics_serializable, f, indent=4)
 
     # # Create reports directory
     # os.makedirs(reports_dir, exist_ok=True)

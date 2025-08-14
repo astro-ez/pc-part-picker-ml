@@ -45,7 +45,7 @@ parts_attrs_dict = {
         "part_name": {
             "columns": {
                 "name": {},
-                # "modules": {},
+                "modules": {},
                 # "speed": {
                 #     "suffix": "MHz",
                 # },
@@ -62,7 +62,7 @@ parts_attrs_dict = {
             "columns": {
                 "name": {},
                 # "type": {},
-                # "color": {},
+                "color": {},
                 # "side_panel": {},
             }
         },
