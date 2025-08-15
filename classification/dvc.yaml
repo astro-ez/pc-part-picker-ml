@@ -11,7 +11,7 @@ stages:
   preprocess:
     cmd: py -m src.features.preprocess
     deps:
-      - ../shared/data/interim/pc-parts-merged.csv
+      - ../shared/data/interim/pc-parts-database.csv
       - src/features/preprocess.py
       - src/utils/tokenization.py
     outs:

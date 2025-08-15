@@ -72,16 +72,16 @@ parts_attrs_dict = {
         "part_name": {
             "columns": {
                 "name": {},
-                # "wattage": {
-                #     "suffix": "W",
-                # },
-                # "efficiency": {
-                #     "upper": True,
-                # },
-                # "modular": {
-                #     "bool_format": ("Modular", "Non-Modular"),
-                # },
-                # "type": {},
+                "type": {},
+                "wattage": {
+                    "suffix": "W",
+                },
+                "efficiency": {
+                    "upper": True,
+                },
+                "modular": {
+                    "bool_format": ("Modular", "Non-Modular"),
+                },
             }
         },
         "part_type": "PSU"
@@ -121,11 +121,11 @@ parts_attrs_dict = {
     "internal-hard-drive": {
         "part_name": {
             "columns": {
+                "type": {},
                 "name": {},
                 # "capacity": {
                 #     "suffix": "GB",
                 # },
-                # "type": {},
                 # "interface": {},
                 # "cache": {
                 #     "bool_format": ("Cache", "No Cache"),
@@ -134,5 +134,13 @@ parts_attrs_dict = {
             }
         },
         "part_type": "STORAGE"
+    },
+    "thermal-paste": {
+        "part_name": {
+            "columns": {
+                "name": {},
+            }
+        },
+        "part_type": "THERMAL_PASTE"
     }
 }

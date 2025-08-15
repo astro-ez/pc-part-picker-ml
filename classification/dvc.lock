@@ -18,24 +18,24 @@ stages:
       size: 1601
     - path: src/data/parts_attrs_dict.py
       hash: md5
-      md5: a695a879b7f7f2db895ef9c49bc3df0b
-      size: 3511
+      md5: f142160244730a0bdbb9cb7eb1618bfa
+      size: 3665
     outs:
     - path: ../shared/data/interim/pc-parts-merged.csv
       hash: md5
-      md5: db889362a695efd0fdb3f99889695fc1
-      size: 1750288
+      md5: 2c488e092648c90459733d8afc6327b0
+      size: 1874738
   preprocess:
     cmd: py -m src.features.preprocess
     deps:
-    - path: ../shared/data/interim/pc-parts-merged.csv
+    - path: ../shared/data/interim/pc-parts-database.csv
       hash: md5
-      md5: db889362a695efd0fdb3f99889695fc1
-      size: 1750288
+      md5: 4e25f4e8b2d13f804f888f31a3b98b21
+      size: 1898572
     - path: src/features/preprocess.py
       hash: md5
-      md5: cac0c7370e4a773ca21b3b0ec6693057
-      size: 1589
+      md5: 91bb659320db469b95673e0543daadea
+      size: 1615
     - path: src/utils/tokenization.py
       hash: md5
       md5: 007c4fd12080390caa719eb281f19db0
@@ -43,22 +43,22 @@ stages:
     outs:
     - path: ../shared/data/processed/pc-parts-processed.csv
       hash: md5
-      md5: 471700248deb13743ef6756a123818ff
-      size: 1731742
+      md5: 3ddc8d076519d63ec49f58b78f469ef2
+      size: 1898572
   train:
     cmd: py -m src.models.train
     deps:
     - path: ../shared/data/processed/pc-parts-processed.csv
       hash: md5
-      md5: 471700248deb13743ef6756a123818ff
-      size: 1731742
+      md5: 3ddc8d076519d63ec49f58b78f469ef2
+      size: 1898572
     - path: params/evaluate.yaml
       hash: md5
       md5: a15219b03aebe837b44980db3e55b662
       size: 9
     - path: params/train.yaml
       hash: md5
-      md5: 56758c68fe592f4c13061ae91521176e
+      md5: a0a2968e74a4bbe1ac2b0ade9db5ab9a
       size: 212
     - path: src/models/evaluate.py
       hash: md5
@@ -66,14 +66,14 @@ stages:
       size: 4301
     - path: src/models/train.py
       hash: md5
-      md5: 397cf277956864f23b41b677c2016b3f
-      size: 2058
+      md5: d3ce9bd954dda59c79f134edd2c1d885
+      size: 2392
     outs:
     - path: models/full_pipeline_model.pkl
       hash: md5
-      md5: 6c8a5f6b7a2985871610725ea1a6f4e7
-      size: 479839712
+      md5: 9abffa60176522d72c6d8ff59f305272
+      size: 3960977
     - path: models/metrics.json
       hash: md5
-      md5: 60e276d9382fefef7c284b15ffa3ad10
-      size: 1563
+      md5: 0d5392dbe7bf3de23671e2139b2c457b
+      size: 1543

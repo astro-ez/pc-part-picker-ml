@@ -5,6 +5,9 @@ from sklearn.linear_model import LogisticRegression
 import numpy as np
 import pandas as pd
 import yaml
+from sklearn.feature_extraction.text import TfidfVectorizer
+
+
 # from skl2onnx import convert_sklearn
 # from skl2onnx.common.data_types import FloatTensorType, StringTensorType
 from src.models.evaluate import evaluate_model
@@ -18,10 +21,14 @@ def train():
 
     df = pd.read_csv('../shared/data/processed/pc-parts-processed.csv')
 
-    sentence_model = SentenceTransformer(params['sentence_transformer_model'])
+    # sentence_model = SentenceTransformer(params['sentence_transformer_model'])
+    tf_idf_vectorizer = TfidfVectorizer(lowercase=True, strip_accents="unicode", ngram_range=(1, 3), min_df=2,
+                                        # max_df=0.9, 
+                                        sublinear_tf=True)
 
-    logging.info("embedding the part names")
-    embeddings = sentence_model.encode(df['part_name'].tolist(), show_progress_bar=True)
+    # logging.info("embedding the part names")
+    logging.info("vectorizing the part names")
+    embeddings = tf_idf_vectorizer.fit_transform(df['part_name'].tolist())
 
     X = embeddings
     y = df['part_type']
@@ -40,7 +47,7 @@ def train():
     evaluate_model(clf_logistic, X_test, y_test)
 
     pipeline = {
-        "embedder": sentence_model,
+        "embedder": tf_idf_vectorizer,
         "classifier": clf_logistic
     }
 
