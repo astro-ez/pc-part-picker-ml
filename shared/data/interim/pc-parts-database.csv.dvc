@@ -1,0 +1,5 @@
+outs:
+- md5: db889362a695efd0fdb3f99889695fc1
+  size: 1750288
+  hash: md5
+  path: pc-parts-database.csv
