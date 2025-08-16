@@ -1,0 +1,33 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: classify-items-job
+spec:
+  backoffLimit: 3
+  activeDeadlineSeconds: 3600
+  template:
+    spec:
+      restartPolicy: Never
+      containers:
+        - name: classifier
+          image: 
+          command: 
+          env:
+            - name: MONGO_DB
+              value: "pcparts"
+            - name: MONGO_COLL
+              value: "items"
+            - name: FEATURES
+              value: "title,brand,desc"
+            - name: MODEL_PATH
+              value: "/app/artifacts/model.pkl"
+          envFrom:
+            - secretRef:
+                name: mongo-uri
+          resources:
+            limits:
+              cpu: "1"
+              memory: "1Gi"
+            requests:
+              cpu: "250m"
+              memory: "512Mi"

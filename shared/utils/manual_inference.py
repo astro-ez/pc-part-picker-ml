@@ -12,8 +12,8 @@ def run_manual_test(inputs_string: list[str], model_path = "../../classification
 
     pipeline = joblib.load(model_path)
 
-    logging.info("embedding the part names")
-    embeddings = pipeline["embedder"].encode(inputs_string, show_progress_bar=True)
+    logging.info("vectorizing the part names")
+    embeddings = pipeline["embedder"].transform(inputs_string)
 
     results = pipeline["classifier"].predict(embeddings)
 
